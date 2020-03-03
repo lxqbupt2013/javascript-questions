@@ -1,3 +1,5 @@
+# 有坑的问题： 46、57、59、65、71、73、97、100、112、114、116、124、126、133、135
+
 # JavaScript 进阶问题列表
 
 我在我的 [Instagram](https://www.instagram.com/theavocoder) 上每天都会发布 JavaScript 的多选问题，并且同时也会在这个仓库中发布。
